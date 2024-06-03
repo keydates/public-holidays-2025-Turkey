@@ -1,0 +1,60 @@
+{
+  "product": "Turkey Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Government",
+      "product": "Turkey Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the beginning of the new year"
+    },
+    {
+      "title": "National Sovereignty and Children's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-23T12:00:00",
+      "endDate": "2025-04-23T12:00:00",
+      "source": "Government",
+      "product": "Turkey Public Holidays 2025",
+      "style": "yellow",
+      "description": "Commemoration of the first gathering of the Grand National Assembly of Turkey"
+    },
+    {
+      "title": "Labor and Solidarity Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-01T12:00:00",
+      "endDate": "2025-05-01T12:00:00",
+      "source": "Government",
+      "product": "Turkey Public Holidays 2025",
+      "style": "green",
+      "description": "Celebration of labor and workers' rights"
+    },
+    {
+      "title": "Victory Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-08-30T12:00:00",
+      "endDate": "2025-08-30T12:00:00",
+      "source": "Government",
+      "product": "Turkey Public Holidays 2025",
+      "style": "red",
+      "description": "Commemoration of the victory in the Battle of Dumlupınar"
+    },
+    {
+      "title": "Republic Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-10-29T12:00:00",
+      "endDate": "2025-10-29T12:00:00",
+      "source": "Government",
+      "product": "Turkey Public Holidays 2025",
+      "style": "purple",
+      "description": "Celebration of the proclamation of the Republic of Turkey"
+    }
+  ]
+}
